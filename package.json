@@ -1,6 +1,6 @@
 {
   "name": "@szum.szym/upside-down",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "It flips a text upside-down.",
   "main": "index.js",
   "repository": {

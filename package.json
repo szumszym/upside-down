@@ -1,0 +1,21 @@
+{
+  "name": "@szum.szym/upside-down",
+  "version": "1.0.1",
+  "description": "It flips a text upside-down.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szumszym/upside-down.git"
+  },
+  "keywords": [
+    "text",
+    "upsidedown",
+    "flip"
+  ],
+  "author": "Szymon Szumski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/szumszym/upside-down/issues"
+  },
+  "homepage": "https://github.com/szumszym/upside-down#readme"
+}
